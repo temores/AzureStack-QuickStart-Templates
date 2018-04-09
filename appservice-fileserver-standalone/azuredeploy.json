@@ -21,12 +21,12 @@
     },
     "imageReference": {
       "type": "string",
-      "defaultValue": "MicrosoftWindowsServer | WindowsServer | 2016-Datacenter | latest",
+      "defaultValue": "MicrosoftWindowsServer | WindowsServer | 2016-Datacenter-ARM | latest",
       "allowedValues": [
-        "MicrosoftWindowsServer | WindowsServer | 2016-Datacenter | latest"
+        "MicrosoftWindowsServer | WindowsServer | 2016-Datacenter-ARM | latest"
       ],
       "metadata": {
-        "description": "Please ensure the image is available. publisher: MicrosoftWindowsServer | offer: WindowsServer | sku: 2016-Datacenter"
+        "description": "Please ensure the image is available. publisher: MicrosoftWindowsServer | offer: WindowsServer | sku: 2016-Datacenter-ARM"
       }
     },
     "dnsNameForPublicIP": {
