@@ -6,7 +6,7 @@
             "value": "Standard_A2"
         },
         "imageReference": {
-            "value": "MicrosoftWindowsServer | WindowsServer | 2016-Datacenter | latest"
+            "value": "MicrosoftWindowsServer | WindowsServer | 2016-Datacenter-ARM | latest"
         },
         "dnsNameForPublicIP": {
             "value": "appservicefileshare"
